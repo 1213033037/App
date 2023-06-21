@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "image" : "Image-Kenrokuen"
+    },
+    {
+        "id" : 2,
+        "image" : "Image-AngelRoad"
+    },
+    {
+        "id" : 3,
+        "image" : "Image-KumanoKodo"
+    },
+    {
+        "id" : 4,
+        "image" : "Image-Tojinbo"
+    },
+    {
+        "id" : 6,
+        "image" : "Image-RitsurinGarden"
+    },
+    {
+        "id" : 7,
+        "image" : "Image-Sakurajima"
+    },
+    {
+        "id" : 8,
+        "image" : "Image-Katsurahama"
+    }
+]

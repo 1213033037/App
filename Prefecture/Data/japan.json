@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 1,
+        "image" : "globe.asia.australia",
+        "title" : "面積",
+        "color" : 10
+    },
+    {
+        "id" : 2,
+        "image" : "figure.2.arms.open",
+        "title" : "人口",
+        "color" : 10
+    },
+    {
+        "id" : 3,
+        "image" : "water.waves",
+        "title" : "川",
+        "color" : 5
+    },
+    {
+        "id" : 4,
+        "image" : "fish",
+        "title" : "湖",
+        "color" : 1
+    },
+    {
+        "id" : 5,
+        "image" : "mountain.2",
+        "title" : "山",
+        "color" : 2
+    },
+    {
+        "id" : 6,
+        "image" : "house",
+        "title" : "城",
+        "color" : 3
+    },
+    {
+        "id" : 7,
+        "image" : "figure.water.fitness",
+        "title" : "温泉",
+        "color" : 5
+    },
+    {
+        "id" : 8,
+        "image" : "leaf",
+        "title" : "庭園",
+        "color" : 2
+    },
+    {
+        "id" : 9,
+        "image" : "sun.and.horizon",
+        "title" : "風景",
+        "color" : 2
+    }
+]
